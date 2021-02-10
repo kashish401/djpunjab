@@ -12,6 +12,7 @@
 <html class="no-js" <?php language_attributes(); ?>>
 
 <head>
+	<meta name="google-site-verification" content="fkuHrrTTA3qu99WIaE0zRU_sxMk8gplefZhM85D5eEs" />
 	
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
